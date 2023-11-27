@@ -8,46 +8,45 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Edson Fernando Cachoeira Filho
 
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+        Sim
+    2 - (Instâncias) definem o que algo pode fazer e guardar, enquanto uma
+        (classe) é um objeto específico que contém o seu próprio estado 
         (Apaga a opção entre parênteses errada)
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+        Váriaveis, Métodos e Construtores
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        Sim
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        Construtores
     6 - De onde podes aceder a algo private? 
-        ...
+        De dentro da classe
     7 - De onde podes aceder a algo public? 
-        ... 
+        Apartir de qualquer sítio
     8 - De onde podes aceder a algo internal? 
-        ...
-
+        Dentro do mesmo projeto
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        Classes são estruturas que permitem definir um tipo de objeto
     2 - Objeto / instância
-        ...
+        São casos específicos de objetos
     3 - Método
-        ...
+        O método é tudo aquilo que a classe pode fazer
     4 - Construtor
-        ...
+        É um método especial que inicializa a classe
     5 - Variável de instância
-        ...
+        Definem estado de cada instância da classe
     6 - Variável local
-        ...
+        É uma variável usada dentro do método e pode conter o mesmo nome da variável de instância
     7 - Overloading
-        ...
+        Múltiplos métodos com o mesmo nome
     8 - Encapsulação
-        ...
+        É um conceito que envolve o agrupamento de dados
 
 ## E3 - Cria o seguinte programa de consola (12v)
 
